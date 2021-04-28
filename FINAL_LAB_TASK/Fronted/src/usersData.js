@@ -2,9 +2,9 @@
 export const users = [
 	{
 		id: '1',
-		name: 'Alamin',
+		name: 'Anjum',
 		dept: 'CS',
-		email: 'alamin@aiub.edu'
+		email: 'anjum@aiub.edu'
 	},
 	{
 		id: '2',
